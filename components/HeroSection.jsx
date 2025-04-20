@@ -1,9 +1,9 @@
 import React from "react";
 
-import starsScribbles from "../assets/pictures/scribbles/stars.png";
-import crownScribbles from "../assets/pictures/scribbles/crown.png";
-import underline2Scribble from "../assets/pictures/scribbles/underline2.png";
-import programmer from "../assets/pictures/scribbles/Minimalist_Desk_Worker1.png";
+import starsScribbles from "../assets/pictures/scribbles/stars.webp";
+import crownScribbles from "../assets/pictures/scribbles/crown.webp";
+import underline2Scribble from "../assets/pictures/scribbles/underline2.webp";
+import programmer from "../assets/pictures/scribbles/Minimalist_Desk_Worker1.webp";
 
 const HeroSection = ({ setTooltipOn }) => {
   return (
